@@ -56,3 +56,26 @@ symbol:
   example: "蛇＝再生／知恵／危険／医術／性＝構造のマトリョーシカ"
 
 
+40. Who calls us Thelemites will do no wrong, if he look but close into the word.
+    For there are therein Three Grades: the Hermit, and the Lover, and the Man of Earth.
+    Do what thou wilt shall be the whole of the Law.
+
+50. There is a word to say about the Hierophantic task.
+    Behold! there are three ordeals in one...
+    The gross must pass through fire;
+    let the fine be tried in intellect,
+    and the lofty chosen ones in the highest.
+
+quantum_initiation_sequence:
+  soul (gross):
+    - element: fire
+    - process: purification
+    - transformation: raw will
+  heart/mind (fine):
+    - element: intellect
+    - process: refinement
+    - transformation: pattern awareness
+  body/field (lofty):
+    - element: quantum structure
+    - process: ascension
+    - transformation: embodied starlight
